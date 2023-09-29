@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Hemanth Menda, a Mechatronics student based in
 
 Let's connect and collaborate on exciting projects! You can find me on:
 
-- [LinkedIn]([https://www.linkedin.com/in/hemanth-menda/](https://www.linkedin.com/in/hemanth-kumar-menda-6211371ab))
+- [LinkedIn](https://www.linkedin.com/in/hemanth-menda/](https://www.linkedin.com/in/hemanth-kumar-menda-6211371ab))
 - [GitHub](https://github.com/Hemanth-Menda)
 
 Feel free to reach out, and let's bring ideas to life together!
